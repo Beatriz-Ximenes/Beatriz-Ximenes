@@ -1,8 +1,6 @@
-<h1 align="center">Olá, meu nome é Beatriz</h1>
+<h1 align="left">Olá, meu nome é Beatriz!</h1>
 
 ###
-
-<br clear="both">
 
 <p align="left">My name is Beatriz and I am 19 years old.</p>
 
@@ -46,8 +44,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Beatriz-Ximenes/Beatriz-Ximenes/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -55,13 +51,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Beatriz-Ximenes.Beatriz-Ximenes&"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beatriz-Ximenes/Beatriz-Ximenes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beatriz-Ximenes/Beatriz-Ximenes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Beatriz-Ximenes/Beatriz-Ximenes/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
